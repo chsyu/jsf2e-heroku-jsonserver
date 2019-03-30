@@ -1,7 +1,0 @@
-{
-  "name": "REST Server",
-  "description": "REST Server",
-  "repository": "https://github.com/chsyu/jsf2e-heroku-jsonserver.git",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "json-server"]
-}
