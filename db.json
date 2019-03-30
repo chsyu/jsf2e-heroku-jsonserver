@@ -1,5 +1,11 @@
 {
-  "groups": [],
+  "groups": [{
+    "id": 1,
+    "dep": "ntue",
+  },{
+    "id": 2,
+    "dep": "dtd"
+  }],
   "users": [{
       "id": 1,
       "first_name": "Robert",
