@@ -1,5 +1,18 @@
 {
-  "groups": [],
+  "groups": [
+    {
+      "id": 1,
+      "dep": "ntue"
+    },
+    {
+      "id": 2,
+      "dep": "dtd"
+    },
+    {
+      "id": 3,
+      "dep": "factory"
+    }
+  ],
   "users": [
     {
       "id": 1,
